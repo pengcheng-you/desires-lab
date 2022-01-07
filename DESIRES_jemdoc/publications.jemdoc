@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{publications.html}
+= DESIRES Lab \@ Peking University
+
+/Highlighted authors include postdocs and students advised./
+
+== Preprints
+
+
+. *P. You*, M. Fernandez, D. F. Gayme, and E. Mallada. "The Role of Strategic Participants in Two-Stage Settlement Electricity Markets"
+. *P. You*, Y. Jiang, E. Yeung, D. F. Gayme, and E. Mallada. "On the Stability, Economic Efficiency and Incentive Compatibility of Electricity Market Dynamics" ([https://arxiv.org/abs/2112.05811 access])
+
+== Book Chapters
+
+. *P. You*. "Scheduling of EV Battery Swapping in Microgrid". Book chapter in /Distributed Control Methods and Cyber Security Issues in Microgrids/ (Editors: X. Wang, W. Meng, S. Liu), Elsevier, 2020 ([https://www.sciencedirect.com/science/article/pii/B9780128169469000086\#fn0010/ access])
+
+== Journals
+
+. R. Pates, A. Ferragut, E. Pivo, *P. You*, F. Paganini, and E. Mallada. "Respect the Unstable: Delays and Saturation in Contact Tracing for Disease Control". /SIAM Journal on Control and Optimization (SICON)/, accepted
+. J. Sun, S. Chen, P. You, Q. Yang, and Z. Yang. "Battery-Assisted Online Operation of Distributed Data Centers with Uncertain Workload and Electricity Prices". /IEEE Transactions on Cloud Computing/, accepted
+. M. Almassalkhi, et al. "Hierarchical, Grid-Aware, and Economically Optimal Coordination of Distributed Energy Resources in Realistic Distribution Systems". /Energies/, accepted ([https://www.mdpi.com/1996-1073/13/23/6399 access])
+. H. Yang, *P. You*, and C. Shang. "Distributed Planning of Electricity and Natural Gas Networks and Energy Hubs". /Applied Energy/, accepted ([https://www.sciencedirect.com/science/article/abs/pii/S0306261920315142 access])
+. *P. You*, J. Z.F. Pang, and S. H. Low. "Online Station Assignment for Electric Vehicle Battery Swapping". /IEEE Transactions on Intelligent Transportation Systems/, accepted ([https://ieeexplore.ieee.org/document/9254167 access])
+. L. Mo, *P. You*, X. Cao, and Y.-Q. Song. "Event-Driven Joint Mobile Actuators Scheduling and Control in Cyber-Physical Systems". /IEEE Transactions on Industrial Informatics/, vol. 15, no. 11, pp. 5877 - 5891, Nov. 2019 ([https://ieeexplore.ieee.org/abstract/document/8673870 access])
+. Z. Yang, T. Guo, *P. You*, Y. Hou, and S. J. Qin. "Distributed Approach for Temporal-Spatial Charging Coordination of Plug-in Electric Taxi Fleet". /IEEE Transactions on Industrial Informatics/, vol. 15, no. 6, pp. 3185 - 3195, Jun. 2019 ([https://ieeexplore.ieee.org/abstract/document/8521690 access]) 
+. Y. Zhang, *P. You*, and L. Cai. "Optimal Charging Scheduling by Pricing for EV Charging Station with Dual Charging Modes". /IEEE Transactions on Intelligent Transportation Systems/, vol. 20, no. 9, pp. 3386 - 3396, Sep. 2019 ([https://ieeexplore.ieee.org/abstract/document/8520744 access])
+. *P. You*, S. H. Low, L. Zhang, R. Deng, G. B. Giannakis, Y. Sun, and Z. Yang. "Scheduling of EV Battery Swapping, II: Distributed Solutions". /IEEE Transactions on Control of Network Systems/, vol. 5, no. 4, pp. 1920-1930, Dec. 2018 ([https://ieeexplore.ieee.org/document/8110720 access])
+. *P. You*, S. H. Low, W. Tushar, G. Geng, C. Yuen, Z. Yang, and Y. Sun. "Scheduling of EV Battery Swapping, I: Centralized Solution". /IEEE Transactions on Control of Network Systems/, vol. 5, no. 4, pp. 1887-1897, Dec. 2018 ([https://ieeexplore.ieee.org/document/8105836 access])
+. Y. Zhou, D. K.Y. Yau, *P. You*, and P. Cheng. "Optimal-Cost Scheduling of Electrical Vehicle Charging under Uncertainty". /IEEE Transactions on Smart Grid/, vol. 9, no. 5, pp. 4547-4554, Sep. 2018 ([https://ieeexplore.ieee.org/abstract/document/7840019 access])
+. H. Ma, Z. Yang, *P. You*, and M. Fei. "Multi-objective Biogeography-based Optimization for Dynamic Economic Emission Load Dispatch Considering Plug-in Electric Vehicles Charging". /Energy/, vol. 135, pp. 101-111, Sep. 2017 ([https://www.sciencedirect.com/science/article/abs/pii/S036054421731099X access])
+. *P. You*, Z. Yang, Y. Zhang, S. H. Low, and Y. Sun. "Optimal Charging Schedule for a Battery Switching Station Serving Electric Buses". /IEEE Transactions on Power Systems/, vol. 31, no. 5, pp. 3473-3483, Sep. 2016 ([https://ieeexplore.ieee.org/document/7310884 access]) 
+. *P. You*, Z. Yang, M.-Y. Chow, and Y. Sun. "Optimal Cooperative Charging Strategy for a Smart Charging Station of Electric Vehicles". /IEEE Transactions on Power Systems/, vol. 31, no. 4, pp. 2946-2956, Jul. 2016 ([https://ieeexplore.ieee.org/document/7287792 access])
+. Z. Yang, R. Wu, J. Yang, K. Long, and *P. You*. "Economical Operation of Microgrid with Various Devices via Distributed Optimization". /IEEE Transactions on Smart Grid/, vol. 7, no. 2, pp. 857-867, Mar. 2016 ([https://ieeexplore.ieee.org/document/7295621 access])
+. Z. Yang, K. Long, *P. You*, and M.-Y. Chow. "Joint Scheduling of Large-Scale Appliances and Batteries via Distributed Mixed Optimization". /IEEE Transactions on Power Systems/, vol. 30, no. 4, pp. 2031-2040, Jul. 2015 ([https://ieeexplore.ieee.org/document/6905865 access])
+
+== Conference Proceedings
+
+. *K. Lin*, B. Wang, *P. You*. "Mechanism Design for Efficient Nash Equilibrium in Oligopolistic Markets". /Hawaii International Conference on System Sciences (HICSS)/, Maui Island, US, 2022 (access)
+. *P. You*, and E. Mallada. "Saddle Flow Dynamics: Observable Certificates and Separable Regularization". /IEEE American Control Conference (ACC)/, New Orleans, US, 2021 ([https://ieeexplore.ieee.org/abstract/document/9483346 access])
+. *R. K. Bansal*, *P. You*, D. F. Gayme, and E. Mallada. "Storage Degradation Aware Economic Dispatch". /IEEE American Control Conference (ACC)/, New Orleans, US, 2021 ([https://ieeexplore.ieee.org/abstract/document/9482838 access])
+. *P. You*, D. F. Gayme, and E. Mallada. "The Role of Strategic Load Participants in Two-Stage Settlement Electricity Markets". /IEEE Conference on Decision and Control (CDC)/, Nice, France, 2019 ([https://ieeexplore.ieee.org/document/9029514 access]) ([https://arxiv.org/pdf/1903.08341.pdf technical report with full proof]) 
+. H. Fan, *P. You*, Z. Guo, S. Chen, and Z. Yang. "Online Pricing Mechanism for Electric Vehicles Charging Based on Operational Condition of A Charging Station". /Chinese Control Conference (CCC)/, Guangzhou, China, 2019 ([https://ieeexplore.ieee.org/abstract/document/8866411 access])
+. H. Fan, S. Chen, Z. Guo, *P. You*, and Z. Yang. "Coordinated Scheduling Strategy of Charging Station Considering Cost and Efficiency". /IEEE International Conference on Control \& Automation (ICCA)/, Edinburgh, Scotland, 2019 ([https://ieeexplore.ieee.org/abstract/document/8899991 access])
+. *P. You*\*, J. Z.F. Pang\*, and E. Yeung\*. "Deep Koopman Controller Synthesis for Cyber-Resilient Market-Based Frequency Regulation" (\*all authors contributed equally). /IFAC Symposium on Control of Power and Energy Systems (CPES)/, Tokyo, Japan, 2018 ([https://www.sciencedirect.com/science/article/pii/S2405896318335110 access])
+. *P. You*, J. Z.F. Pang, and E. Yeung. "Stabilization of Power Networks via Market Dynamics". /ACM e-Energy/, Karlsruhe, Germany, 2018 ([https://dl.acm.org/doi/10.1145/3208903.3208916 access])
+. *P. You*, J. Z.F. Pang, S. H. Low, and P. Cheng. "Efficient Online Station Assignment for EV Battery Swapping" (poster abstract). /ACM e-Energy/, Karlsruhe, Germany, 2018 ([https://dl.acm.org/doi/10.1145/3208903.3212032 access])
+. X. Liu, *P. You*, and Z. Yang. "Bilaterally Open Electricity Markets with High Penetration of Renewables". /IEEE International Conference on Control \& Automation (ICCA)/, Anchorage, US, 2018 ([https://ieeexplore.ieee.org/abstract/document/8444310 access])
+. Z. Yu, *P. You*, and Z. Yang. "Residential Load Reduction Scheduling with Optimal Power Flow and Segmented Incentives". /IEEE PES General Meeting/, Portland, US, 2018 ([https://ieeexplore.ieee.org/abstract/document/8585973 access])
+. J. Z.F. Pang, *P. You*, and M. Chen. "The Role of Information in Temporally Networked Cournot Markets: Second Chance in Power Markets". /Hawaii International Conference on System Sciences (HICSS)/, Hawaii, US, 2018 ([https://scholarspace.manoa.hawaii.edu/handle/10125/50323 access])
+. *P. You*, J. Z.F. Pang, M. Chen, S. H. Low, and Y. Sun. "Battery Swapping Assignment for Electric Vehicles: A Bipartite Matching Approach". /IEEE Conference on Decision and Control (CDC)/, Melbourne, Australia, 2017 ([https://ieeexplore.ieee.org/document/8263853 access])
+. H. Ma, *P. You*, K. Liu, Z. Yang, and M. Fei. "Optimal Battery Charging Strategy Based on Complex System Optimization". /International Conference on Intelligent Computing for Sustainable Energy and Environment (ICSEE)/, Nanjing, China, 2017 ([https://link.springer.com/chapter/10.1007/978-981-10-6364-0_37 access])
+. *P. You*, Y. Sun, J. Z.F. Pang, S. H. Low, and M. Chen. "Battery Swapping Assignment for Electric Vehicles: A Bipartite Matching Approach" (extended abstract). /Greenmetrics/, Urbana-Champaign, US, 2017 ([https://dl.acm.org/doi/10.1145/3152042.3152068 access]) 
+. T. Guo, *P. You*, and Z. Yang. "Recommendation of Geo-Distributed Charging Stations for EVs: A Game Theoretical Approach". /IEEE PES General Meeting/, Chicago, US, 2017 ([https://ieeexplore.ieee.org/document/8274435 access])
+. H. Ma, Z. Yang, *P. You*, and M. Fei. "Complex System Optimization for Economic Emission Load Dispatch". /International Conference on Control/, Belfast, Northern Ireland, UK, 2016 ([https://ieeexplore.ieee.org/document/7737574\#full-text-section access])
+. E. Liu, *P. You*, and P. Cheng. "Optimal Privacy-Preserving Load Scheduling in Smart Grid". /IEEE PES General Meeting/, Boston, US, 2016 ([https://ieeexplore.ieee.org/abstract/document/7741279 access]) 
+. *P. You*, S. H. Low, Z. Yang, Y. Zhang, and L. Fu. "Real-Time Recommendation Algorithm of Battery Swapping Stations for Electric Taxis". /IEEE PES General Meeting/, Boston, US, 2016 ([https://ieeexplore.ieee.org/abstract/document/7741620 access])
+. L. Mo, *P. You*, X. Cao, Y.-Q. Song, and J. Chen. "Decentralized Multi-Charger Coordination for Wireless Rechargeable Sensor Networks". /International Performance Computing and Communications Conference (IPCCC)/, Nanjing, China, 2015 ([https://ieeexplore.ieee.org/abstract/document/7410283 access]) 
+. *P. You*, Z. Yang, and Y. Zhang. "Efficient Battery Charging Schedule of Battery-Swapping Station for Electric Buses". /European Control Conference (ECC)/, Linz, Austria, 2015 ([https://ieeexplore.ieee.org/document/7330563 access]) 
+. *P. You*, and Z. Yang. "Efficient Optimal Scheduling of Charging Station with Multiple Electric Vehicles via V2V". /IEEE SmartGridComm/, Venice, Italy, 2014 ([https://ieeexplore.ieee.org/document/7007732 access]) 
